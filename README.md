@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priya7667" alt="priya7667" /></a> </p>
 
-- 🔭 I’m currently working on **Dice game**
+- 🔭 I’m currently working on **Gym Website**
 
 - 🌱 I’m currently learning **React, Java, SQL, Spring Boot**
 
