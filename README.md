@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Priyanjali Barriar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am on learning era</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priya7667&label=Profile%20views&color=0e75b6&style=flat" alt="priya7667" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priya7667" alt="priya7667" /></a> </p>
 
-- 🔭 I’m currently working on **Gym Website**
+- 🔭 I’m currently working on **Cloud Services**
 
-- 🌱 I’m currently learning **React, Java, SQL, Spring Boot**
+- 🌱 I’m currently learning **AWS, GCP , Cloud Services**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **SQL,AWS,GCP**
 
 - 📫 How to reach me **priyanjalibarriar091@gmail.com**
 
